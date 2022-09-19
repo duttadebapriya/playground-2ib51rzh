@@ -1,9 +1,12 @@
-# Welcome!
+# Say hello through your code!
 
 This Java template lets you get started quickly with a simple one-page playground.
 
 ```java runnable
 // { autofold
+//What is java?
+//Java is an object oriented programming language originally developed by James Gosling at Sun Microsystems in the year 1995.
+//Hello World!
 public class Main {
 
 public static void main(String[] args) {
